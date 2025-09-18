@@ -22,19 +22,13 @@ const About = () => (
         variants={fadeIn('up', 'tween', 0.2, 1)}
         className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
       >
-        <span className="font-extrabold text-white">Metaverse</span> is a new
-        thing in the future, where you can enjoy the virtual world by feeling
-        like it's really real, you can feel what you feel in this metaverse
-        world, because this is really the{' '}
-        <span className="font-extrabold text-white">
-          madness of the metaverse
-        </span>{' '}
-        of today, using only{' '}
-        <span className="font-extrabold text-white">VR</span> devices you can
-        easily explore the metaverse world you want, turn your dreams into
-        reality. Let's{' '}
-        <span className="font-extrabold text-white">explore</span> the madness
-        of the metaverse by scrolling down
+        <span className="font-extrabold text-white">PRODUÇÃO:</span> Oferecemos todas as soluções que você precisa para planejar, executar e garantir o sucesso do seu evento esportivo, com{' '}
+        <span className="font-extrabold text-white">qualidade e profissionalismo.</span>
+        {' '}
+        <span className="font-extrabold text-white">SOLUÇÕES:</span> Cada evento é único. Por isso, desenvolvemos soluções personalizadas que atendem às suas necessidades específicas, proporcionando uma{' '}
+        <span className="font-extrabold text-white">experiência memorável.</span>
+        {' '}
+        <span className="font-extrabold text-white">EXCELÊNCIA:</span> Com uma equipe altamente qualificada, garantimos a excelência em cada serviço, desde a produção até a locação de materiais e consultoria especializada para eventos esportivos.
       </motion.p>
 
       <motion.img

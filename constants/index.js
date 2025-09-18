@@ -1,68 +1,70 @@
+// constants/index.js
+
 export const exploreWorlds = [
   {
     id: 'world-1',
-    imgUrl: '/planet-01.png',
-    title: 'The Hogwarts',
+    imgUrl: '/planet-01.png', // Substitua por uma imagem de evento corporativo
+    title: 'Eventos Corporativos',
   },
   {
     id: 'world-2',
-    imgUrl: '/planet-02.png',
-    title: 'The Upside Down',
+    imgUrl: '/planet-02.png', // Substitua por uma imagem de show ou festival
+    title: 'Shows e Festivais',
   },
   {
     id: 'world-3',
-    imgUrl: '/planet-03.png',
-    title: 'Kadirojo Permai',
+    imgUrl: '/planet-03.png', // Substitua por uma imagem de congresso
+    title: 'Congressos e Feiras',
   },
   {
     id: 'world-4',
-    imgUrl: '/planet-04.png',
-    title: 'Paradise Island',
+    imgUrl: '/planet-04.png', // Substitua por uma imagem de evento esportivo
+    title: 'Eventos Esportivos',
   },
   {
     id: 'world-5',
-    imgUrl: '/planet-05.png',
-    title: 'Hawkins Labs',
+    imgUrl: '/planet-05.png', // Substitua por uma imagem de evento social
+    title: 'Eventos Sociais',
   },
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  'Conte-nos sobre seu evento e suas necessidades específicas.',
+  'Desenvolvemos soluções personalizadas para garantir uma experiência memorável.',
+  'Nossa equipe cuida de tudo para que seu evento seja um sucesso absoluto.',
 ];
 
 export const newFeatures = [
   {
-    imgUrl: '/vrpano.svg',
-    title: 'A new world',
+    imgUrl: '/vrpano.svg', // Troque o ícone se desejar
+    title: 'Soluções Completas',
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+        'Oferecemos tudo que você precisa para planejar e executar seu evento com qualidade e profissionalismo.',
   },
   {
-    imgUrl: '/headset.svg',
-    title: 'More realistic',
+    imgUrl: '/headset.svg', // Troque o ícone se desejar
+    title: 'Excelência Garantida',
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+        'Com uma equipe altamente qualificada, garantimos a excelência em cada serviço, da produção à consultoria.',
   },
 ];
 
 export const insights = [
   {
-    imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    imgUrl: '/planet-06.png', // Substitua pela imagem do seu blog post
+    title: 'A importância de um planejamento impecável para eventos de grande porte',
     subtitle:
         'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
   },
   {
-    imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
+    imgUrl: '/planet-07.png', // Substitua pela imagem do seu blog post
+    title: '7 dicas para criar experiências inesquecíveis para seus convidados',
     subtitle:
         'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
   },
   {
-    imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
+    imgUrl: '/planet-08.png', // Substitua pela imagem do seu blog post
+    title: 'Como a tecnologia está transformando o setor de eventos',
     subtitle:
         'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
   },
