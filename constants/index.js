@@ -37,15 +37,15 @@ export const startingFeatures = [
 export const newFeatures = [
   {
     imgUrl: '/vrpano.svg', // Troque o ícone se desejar
-    title: 'Soluções Completas',
+    title: 'Planejamento Orçamentário',
     subtitle:
-        'Oferecemos tudo que você precisa para planejar e executar seu evento com qualidade e profissionalismo.',
+        'Desenvolvemos orçamentos detalhados e realistas, garantindo controle total sobre os custos e evitando surpresas desagradáveis.',
   },
   {
     imgUrl: '/headset.svg', // Troque o ícone se desejar
-    title: 'Excelência Garantida',
+    title: 'Análise de ROI',
     subtitle:
-        'Com uma equipe altamente qualificada, garantimos a excelência em cada serviço, da produção à consultoria.',
+        'Nossa consultoria foca em maximizar o Retorno Sobre o Investimento (ROI), transformando seu evento em um verdadeiro ativo de negócio.',
   },
 ];
 
@@ -54,19 +54,19 @@ export const insights = [
     imgUrl: '/planet-06.png', // Substitua pela imagem do seu blog post
     title: 'A importância de um planejamento impecável para eventos de grande porte',
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+        'Garanta que seu evento seja lembrado pela perfeição. Descubra os pilares de um planejamento à prova de falhas.',
   },
   {
     imgUrl: '/planet-07.png', // Substitua pela imagem do seu blog post
     title: '7 dicas para criar experiências inesquecíveis para seus convidados',
     subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+        'Transforme participantes em fãs. Aprenda a criar momentos que ficam na memória muito depois que o evento acaba.',
   },
   {
     imgUrl: '/planet-08.png', // Substitua pela imagem do seu blog post
     title: 'Como a tecnologia está transformando o setor de eventos',
     subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+        'Otimize processos e engaje seu público. Saiba como a tecnologia pode elevar o nível do seu próximo evento.',
   },
 ];
 
